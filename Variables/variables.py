@@ -1,9 +1,11 @@
-a = 2
-b = 10
-c = 23
-e = a + b + c
-print(e)
+nombre = "Mario" 
+bienvenida = "Hola " + nombre + " ¿Como estas?"
+print(bienvenida)
 
+nombre = " Max"
 
-nombre = "Maximiliano"
-print(nombre)
+#concatenar con fstrings
+bienvenida = f"Hola {nombre} como estas?"
+print(bienvenida)
+
+print("Hola" in  bienvenida)
