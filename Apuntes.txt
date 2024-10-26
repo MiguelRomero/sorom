@@ -1,0 +1,4 @@
+Concatenacion
+esto sifnifica que queremos unir dos Strings, tambien hay una forma de contatenar 
+llamada FStrings la palabra "Del" es una funcion para inhabiltar una variable
+operadores de pertenencia (in / not in) el uso de camelcase o uar nsake
