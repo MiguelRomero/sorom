@@ -2,3 +2,6 @@ Concatenacion
 esto sifnifica que queremos unir dos Strings, tambien hay una forma de contatenar 
 llamada FStrings la palabra "Del" es una funcion para inhabiltar una variable
 operadores de pertenencia (in / not in) el uso de camelcase o uar nsake
+
+La lista es un conjunto de datos, la tupla no se puede modificar aqui podemos tener un conjuntos de datos
+que nunca se podran modificar siempre van a ser lo que nosotros le asignemos
